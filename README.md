@@ -1,1 +1,3 @@
-Live version: https://master.d1eosnut0z6q88.amplifyapp.com/
+Live version: https://rebuilding-administrador-de-pacientes-udemy-react-course.netlify.app/
+
+Original repo: https://github.com/juanpablogdl/citas_react
